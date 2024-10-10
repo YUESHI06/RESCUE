@@ -1,0 +1,15 @@
+__pycache__
+.vscode
+
+data/
+merge_sc_dataset/
+result/
+merge_result/
+
+EA_RGCN/
+
+CBGRU/__pycache__
+CBGRU/data/
+CBGRU/new_dataset
+CBGRU/result
+CBGRU/merge_result/
